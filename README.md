@@ -1,25 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C7C8C,50:1F6E8C,100:0C7C8C&height=200&section=header&text=MuseLinn&fontSize=50&fontColor=FFFFFF&fontAlignY=40&desc=Signal%20%26%20System%20%E2%80%A2%20Keep%20Building&descAlignY=55&descSize=16" width="100%" />
+<!-- 纯文本头图 -->
+<h1 align="center">MuseLinn</h1>
+<h3 align="center">MSc Student @ CDUT · Signal Processing & Embedded Systems</h3>
 
 </div>
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│   ███╗   ███╗██╗   ██╗███████╗███████╗██╗     ██╗███╗   ██╗███╗   ██╗
-│   ████╗ ████║██║   ██║██╔════╝██╔════╝██║     ██║████╗  ██║████╗  ██║
-│   ██╔████╔██║██║   ██║█████╗  █████╗  ██║     ██║██╔██╗ ██║██╔██╗ ██║
-│   ██║╚██╔╝██║██║   ██║██╔══╝  ██╔══╝  ██║     ██║██║╚██╗██║██║╚██╗██║
-│   ██║ ╚═╝ ██║╚██████╔╝███████╗███████╗███████╗██║██║ ╚████║██║ ╚████║
-│   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
-│                                                            │
-│   > SYSTEM: online                                            │
-│   > ROLE:   MSc Student @ CDUT                                │
-│   > SHELL:  zsh · python3                                     │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 <p align="center">
   <a href="https://github.com/MuseLinn/nature-ref-verifier"><img src="https://img.shields.io/badge/PROJECT-nature--ref--verifier-2ea44f?style=for-the-badge&logo=github"/></a>
@@ -28,30 +15,37 @@
 
 ---
 
-## ⚡ Tech Stack
+## 👋 About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,git,github,linux,vscode" />
-  <br/>
-  <img src="https://img.shields.io/badge/Verilog-HDL-8B0000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FPGA-Xilinx-0071C5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vivado-2024.1-0071C5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HFSS-ANSYS-FF6A00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/STM32-ARM-0091BD?style=flat-square&logo=arm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
-</p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│   MuseLinn                                                    │
+│   ─────────────────                                         │
+│   MSc Student @ CDUT                                         │
+│   Signal Processing & Embedded Systems                       │
+│                                                              │
+│   Languages:   Python · MATLAB · C++ · Verilog               │
+│   Tools:       Vivado · HFSS · STM32 · Git                   │
+│   Interests:   FPGA · Radar Systems · DSP                    │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Tech Stack
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuseLinn&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuseLinn&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuseLinn&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FPGA_Zynq-0071C5?style=for-the-badge&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vivado-2024.1-0071C5?style=for-the-badge&logo=xilinx&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/HFSS_Ansys-FF6A00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STM32-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -66,9 +60,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
-  <br/><br/>
   <sub>Signal & System · Keep Building</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C7C8C,50:1F6E8C,100:0C7C8C&height=120&section=footer" width="100%" />
