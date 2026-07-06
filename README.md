@@ -5,61 +5,61 @@
 <br/>
 
 <a href="https://github.com/MuseLinn/nature-ref-verifier"><img src="https://img.shields.io/badge/PROJECT-nature--ref--verifier-2ea44f?style=for-the-badge&logo=github"/></a>
-<a href="https://github.com/Yuan1z0825/nature-skills"><img src="https://img.shields.io/badge/CONTRIBUTOR-nature--skills-2ea44f?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/MuseLinn/MuseLinn"><img src="https://img.shields.io/badge/PROFILE-MuseLinn-blue?style=for-the-badge&logo=github"/></a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=MuseLinn&style=flat-square&color=blue&label=Profile+Views"/>
 
 </div>
 
----
+## 👋 About / 关于
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│   ███╗   ███╗██╗   ██╗███████╗███████╗██╗     ██╗███╗   ██╗███╗   ██╗  │
-│   ████╗ ████║██║   ██║██╔════╝██╔════╝██║     ██║████╗  ██║████╗  ██║  │
-│   ██╔████╔██║██║   ██║█████╗  █████╗  ██║     ██║██╔██╗ ██║██╔██╗ ██║  │
-│   ██║╚██╔╝██║██║   ██║██╔══╝  ██╔══╝  ██║     ██║██║╚██╗██║██║╚██╗██║  │
-│   ██║ ╚═╝ ██║╚██████╔╝███████╗███████╗███████╗██║██║ ╚████║██║ ╚████║  │
-│   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝  │
-│                                                                          │
-│   袁林 / MuseLinn                                                        │
-│   ────────────────                                                       │
-│   🎓  MSc @ CDUT · 成都理工大学机电工程学院                              │
-│   📡  Signal Processing & Embedded Systems                               │
-│   🔧  Python · MATLAB · Verilog · C++                                   │
-│   🧰  Vivado · HFSS · STM32 · Git                                        │
-└──────────────────────────────────────────────────────────────────────────┘
+      ███╗   ███╗██╗   ██╗███████╗███████╗██╗     ██╗███╗   ██╗███╗   ██╗
+      ████╗ ████║██║   ██║██╔════╝██╔════╝██║     ██║████╗  ██║████╗  ██║
+      ██╔████╔██║██║   ██║█████╗  █████╗  ██║     ██║██╔██╗ ██║██╔██╗ ██║
+      ██║╚██╔╝██║██║   ██║██╔══╝  ██╔══╝  ██║     ██║██║╚██╗██║██║╚██╗██║
+      ██║ ╚═╝ ██║╚██████╔╝███████╗███████╗███████╗██║██║ ╚████║██║ ╚████║
+      ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
 ```
 
-## ⚡ Tech Stack
+**EN:** MSc Student @ CDUT · Signal Processing & Embedded Systems  
+**CN:** 成都理工大学机电工程学院硕士生 · 信号处理与嵌入式系统
+
+**EN:** Python · MATLAB · Verilog · C++ | Vivado · HFSS · STM32 · Git  
+**CN:** 主攻雷达信号处理、FPGA 数字系统设计、射频仿真
+
+---
+
+## ⚡ Tech Stack / 技术栈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge"/>
+  <br/>
   <img src="https://img.shields.io/badge/FPGA_Zynq-0071C5?style=for-the-badge&logo=xilinx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vivado-0071C5?style=for-the-badge&logo=xilinx&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/HFSS_Ansys-FF6A00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/STM32-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats / 统计
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuseLinn&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuseLinn&layout=compact&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MuseLinn&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuseLinn&layout=compact&hide_border=true" />
 </p>
 
-## 📦 Projects
+> GitHub Stats 由 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 提供，若无法加载请尝试访问镜像或刷新页面。
+
+## 📦 Projects / 项目
 
 | 项目 / Project | 说明 / Description |
 |----------------|-------------------|
-| 🔍 [nature-ref-verifier](https://github.com/MuseLinn/nature-ref-verifier) | 多源学术文献校验 / Multi-source reference verification |
-| 🌿 [nature-skills](https://github.com/Yuan1z0825/nature-skills) | 贡献者 — 参考文献校验模块 / Ref verification module ([PR #98](https://github.com/Yuan1z0825/nature-skills/pull/98)) |
+| 🔍 [nature-ref-verifier](https://github.com/MuseLinn/nature-ref-verifier) | 多源学术文献校验技能 / Multi-source reference verification skill |
+| 🌿 [nature-skills](https://github.com/Yuan1z0825/nature-skills) | 贡献者 — 参考文献校验模块 / Contributor — ref verification module ([PR #98](https://github.com/Yuan1z0825/nature-skills/pull/98)) |
 
 <div align="center">
 
