@@ -6,6 +6,8 @@
 
 <a href="https://github.com/MuseLinn/nature-ref-verifier"><img src="https://img.shields.io/badge/PROJECT-nature--ref--verifier-2ea44f?style=for-the-badge&logo=github"/></a>
 <a href="https://github.com/Yuan1z0825/nature-skills"><img src="https://img.shields.io/badge/CONTRIBUTOR-nature--skills-2ea44f?style=for-the-badge&logo=github"/></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=MuseLinn&style=flat-square&color=blue&label=Profile+Views"/>
 
 </div>
 
