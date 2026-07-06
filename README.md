@@ -1,17 +1,9 @@
 <div align="center">
 
-<!-- 纯文本头图 -->
-<h1 align="center">MuseLinn</h1>
-<h3 align="center">MSc Student @ CDUT · Signal Processing & Embedded Systems</h3>
+<h1>MuseLinn</h1>
+<h3>MSc Student @ CDUT · Signal Processing & Embedded Systems</h3>
 
 </div>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/MuseLinn/nature-ref-verifier"><img src="https://img.shields.io/badge/PROJECT-nature--ref--verifier-2ea44f?style=for-the-badge&logo=github"/></a>
-  <a href="https://github.com/Yuan1z0825/nature-skills"><img src="https://img.shields.io/badge/CONTRIBUTOR-nature--skills-2ea44f?style=for-the-badge&logo=github"/></a>
-</p>
 
 ---
 
@@ -19,14 +11,16 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│   MuseLinn                                                    │
-│   ─────────────────                                         │
-│   MSc Student @ CDUT                                         │
-│   Signal Processing & Embedded Systems                       │
+│   ███╗   ███╗██╗   ██╗███████╗███████╗██╗     ██╗███╗   ██╗███╗   ██╗  │
+│   ████╗ ████║██║   ██║██╔════╝██╔════╝██║     ██║████╗  ██║████╗  ██║  │
+│   ██╔████╔██║██║   ██║█████╗  █████╗  ██║     ██║██╔██╗ ██║██╔██╗ ██║  │
+│   ██║╚██╔╝██║██║   ██║██╔══╝  ██╔══╝  ██║     ██║██║╚██╗██║██║╚██╗██║  │
+│   ██║ ╚═╝ ██║╚██████╔╝███████╗███████╗███████╗██║██║ ╚████║██║ ╚████║  │
+│   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝  │
 │                                                              │
-│   Languages:   Python · MATLAB · C++ · Verilog               │
-│   Tools:       Vivado · HFSS · STM32 · Git                   │
-│   Interests:   FPGA · Radar Systems · DSP                    │
+│   ROLE:   MSc Student @ CDUT                                  │
+│   LANG:   Python · MATLAB · Verilog · C++                     │
+│   TOOLS:  Vivado · HFSS · STM32 · Git                         │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -41,7 +35,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FPGA_Zynq-0071C5?style=for-the-badge&logo=xilinx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vivado-2024.1-0071C5?style=for-the-badge&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vivado-0071C5?style=for-the-badge&logo=xilinx&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/HFSS_Ansys-FF6A00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/STM32-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
@@ -54,8 +48,8 @@
 
 | Project | Description |
 |---------|-------------|
-| 🔍 [nature-ref-verifier](https://github.com/MuseLinn/nature-ref-verifier) | Multi-source reference verification skill for academic citations |
-| 🌿 [nature-skills](https://github.com/Yuan1z0825/nature-skills) | Contributor — reference verification module ([PR #98](https://github.com/Yuan1z0825/nature-skills/pull/98)) |
+| 🔍 [nature-ref-verifier](https://github.com/MuseLinn/nature-ref-verifier) | Multi-source reference verification skill |
+| 🌿 [nature-skills](https://github.com/Yuan1z0825/nature-skills) | Contributor — ref verification module ([PR #98](https://github.com/Yuan1z0825/nature-skills/pull/98)) |
 
 ---
 
