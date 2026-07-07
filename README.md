@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C7C8C,50:1F6E8C,100:0C7C8C&height=200&section=header&text=MuseLinn&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Signal%20%26%20System%20%C2%B7%20Keep%20Building&descAlignY=55&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C7C8C,50:1F6E8C,100:0C7C8C&height=200&section=header&text=MuseLinn&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Signal%20and%20System%20%C2%B7%20Keep%20Building&descAlignY=55&descSize=15" width="100%" />
 
 <br/>
 
@@ -48,17 +48,23 @@
 ## 📊 GitHub Stats / 统计
 
 <p align="center">
-  <img height="150em" src="https://gh-readme-stats.dawenxi.eu.org/api?username=MuseLinn&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="150em" src="https://gh-readme-stats.dawenxi.eu.org/api/top-langs/?username=MuseLinn&layout=compact&hide_border=true" />
+  <img src="https://img.shields.io/badge/Stars-5-2ea44f?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Followers-1-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Repos-7-lightgrey?style=for-the-badge&logo=github"/>
+  <br/>
+  <sub>GitHub 统计数字由 [shields.io](https://shields.io) 动态生成</sub>
 </p>
 
-> GitHub Stats via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) · 若图片加载失败，可刷新或访问镜像站。
+<!--
+GitHub Stats 备用方案（若 shields.io 不够用，可取消注释以下行）：
+[![MuseLinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuseLinn&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <div align="center">
 
 ![](https://raw.githubusercontent.com/MuseLinn/MuseLinn/output/github-contribution-grid-snake.svg)
 
-**Signal & System · Keep Building**
+**Signal and System · Keep Building**
 
 </div>
 
