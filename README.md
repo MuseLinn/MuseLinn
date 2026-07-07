@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/MuseLinn/nature-ref-verifier"><img src="https://img.shields.io/badge/PROJECT-nature--ref--verifier-2ea44f?style=for-the-badge&logo=github"/></a>
-<a href="https://github.com/MuseLinn/MuseLinn"><img src="https://img.shields.io/badge/PROFILE-MuseLinn-blue?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/MuseLinn"><img src="https://img.shields.io/badge/PROFILE-MuseLinn-blue?style=for-the-badge&logo=github"/></a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=MuseLinn&style=flat-square&color=blue&label=Profile+Views"/>
 
@@ -48,18 +48,11 @@
 ## 📊 GitHub Stats / 统计
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MuseLinn&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuseLinn&layout=compact&hide_border=true" />
+  <img height="150em" src="https://gh-readme-stats.dawenxi.eu.org/api?username=MuseLinn&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="150em" src="https://gh-readme-stats.dawenxi.eu.org/api/top-langs/?username=MuseLinn&layout=compact&hide_border=true" />
 </p>
 
-> GitHub Stats 由 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 提供，若无法加载请尝试访问镜像或刷新页面。
-
-## 📦 Projects / 项目
-
-| 项目 / Project | 说明 / Description |
-|----------------|-------------------|
-| 🔍 [nature-ref-verifier](https://github.com/MuseLinn/nature-ref-verifier) | 多源学术文献校验技能 / Multi-source reference verification skill |
-| 🌿 [nature-skills](https://github.com/Yuan1z0825/nature-skills) | 贡献者 — 参考文献校验模块 / Contributor — ref verification module ([PR #98](https://github.com/Yuan1z0825/nature-skills/pull/98)) |
+> GitHub Stats via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) · 若图片加载失败，可刷新或访问镜像站。
 
 <div align="center">
 
