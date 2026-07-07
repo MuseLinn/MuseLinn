@@ -62,7 +62,11 @@ GitHub Stats 备用方案（若 shields.io 不够用，可取消注释以下行�
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/MuseLinn/MuseLinn/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuseLinn/MuseLinn/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuseLinn/MuseLinn/output/github-contribution-grid-snake-light.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/MuseLinn/MuseLinn/output/github-contribution-grid-snake-light.svg" />
+</picture>
 
 **Signal and System · Keep Building**
 
